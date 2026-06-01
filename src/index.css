@@ -1,0 +1,60 @@
+@import "tailwindcss";
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: Inter, sans-serif;
+  background-color: #fffaf5;
+}
+body.dark {
+
+  background-color: #111827;
+  color: white;
+
+}
+
+body.dark section {
+
+  background-color: #111827 !important;
+
+}
+
+body.dark .bg-white {
+
+  background-color: #1f2937 !important;
+
+}
+
+body.dark .text-gray-800,
+body.dark .text-gray-700,
+body.dark .text-gray-600,
+body.dark .text-gray-500 {
+
+  color: white !important;
+
+}
+
+body.dark input,
+body.dark textarea,
+body.dark select {
+
+  background-color: #374151;
+  color: white;
+  border-color: #4b5563;
+
+}
+
+body.dark nav {
+
+  background-color: #111827 !important;
+
+}
+
+body.dark footer {
+
+  background-color: #030712 !important;
+
+}
