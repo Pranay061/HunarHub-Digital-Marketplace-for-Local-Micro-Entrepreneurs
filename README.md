@@ -1,4 +1,4 @@
-HUNARHUB – DIGITAL MARKETPLACE FOR LOCAL MICRO-ENTREPENEURS
+# HunarHub – Digital Marketplace for Local Micro-Entrepreneurs
 
 Overview:
 
